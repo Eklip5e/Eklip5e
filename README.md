@@ -3,17 +3,35 @@
 ## <p align="center">I'm Nello, alias Eklip5e or Il Ragazzo Dal Pastello Bianco 🖍</p>
 --- 
 ## ⭐ About Me
-### - 🌈 Pronouns : He/She/Him
-### - 👨‍💻 I'm currently a Computer Science student at Università degli Studi of Salerno
-### - 📖 Currently studying C and Python, confident with Java and SQL
-### - ✏ I'm also a Graphic Designer and a Writer!
+- 🌈 Pronouns : He/She/Him
+- 🧩 Fellow Open-Source Supporter
+- 👨‍💻 I'm currently a Computer Science student at Università degli Studi of Salerno
+- 📖 Currently studying C and Python, confident with Java and SQL
+- ✏ I'm also a Graphic Designer and a Writer!
 ---
-## 🙋‍♂️ I'm the one you're looking for if you want:
+## 🙋‍♂️ I'm the one you're looking for:
+- ⚙ Computer Repair
 - 📱 Android Rooting and Modding
 - 🍎 Apple Jailbreaking and Modding
 - 🛠 Console Modding
+- 🧰 Software Tester
 - 🌍 Minecraft Server Hosting
 - 🌍 Minecraft Server Management
+---
+## 📢 I want to believe and fight for it!
+
+![prova4banner](https://github.com/Eklip5e/Eklip5e/assets/38536104/7dfeb19d-1818-4645-bcf0-145f8e7916a8)
+
+I believe in **FOSS**, in **Recycling** and **Repairability** in terms of **E-Waste**.
+
+Everything has an alternative, you just need to find it.
+
+Everyone should have the freedom to repair and upgrade it's own hardware at home.
+
+Nothing is old enough to toss it in the trash.
+
+Because of that I chose to buy a Framework Laptop and have the freedom of upgrade my main machine with new hardware and sell the old one or re-use it as a Server or a Desktop PC.
+
 ---
 ## 💬 How to reach me?
 <a href="mailto:mysteryshack00@gmail.com"><img src="https://github.com/Eklip5e/Eklip5e/assets/38536104/84637d52-2ac1-459f-b4de-403bf2ee6550" width="90" height="70">
