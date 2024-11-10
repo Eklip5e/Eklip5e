@@ -4,7 +4,7 @@
 --- 
 ## ⭐ About Me
 - 🌈 Pronouns : He/She/Him
-- 🧩 Fellow Open-Source Supporter
+- 🧩 Fellow Open-Source Supporter & Manteiner
 - 👨‍💻 I'm currently a Computer Science student at Università degli Studi of Salerno
 - 📖 Currently studying C and Python, confident with Java and SQL
 - ✏ I'm also a Graphic Designer and a Writer!
